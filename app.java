@@ -9,4 +9,6 @@ java sample code updated into github repository
 
 
 new code by dev1 without pull the code
+we are adding fetch and merge conflects to add
+    
 
